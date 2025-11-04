@@ -4,14 +4,20 @@ body{
 	margin: 50px;
 	text-align:center;
 	color:black;
+	font-size:30px;
+	font:bold;
+	
 }
 table ,th,tr,td{
 	border: 1px solid black;
 	background: yellow;
-	padding:2px;
+	padding-bottom:1px;
+	
 	
 }
 table td ,th{
-	padding:20px;
+	padding-right:20px;
+	
+	
 	
 }
